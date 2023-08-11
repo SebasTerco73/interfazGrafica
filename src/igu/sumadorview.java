@@ -1,5 +1,5 @@
 
-package interfazgrafica;
+package igu;
 
 import javax.swing.JOptionPane;
 
